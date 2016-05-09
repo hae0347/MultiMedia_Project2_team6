@@ -8,7 +8,7 @@ Links are in the text file, and I will extract the links here:
 - Liao Yan Hong: 
 - Guo Nai Zhen: [Video by GuoNaiZhen]
 [Video by GuoNaiZhen]:https://www.youtube.com/watch?v=7xZmO3x9X2M
- - Wu Hsin Han: [Video by WuHsinHan]
+- Wu Hsin Han: [Video by WuHsinHan]
 [Video by WuHsinHan]:https://www.youtube.com/watch?v=0fsfFGK7p18
 
 ######**Team members**
